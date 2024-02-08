@@ -18,7 +18,7 @@ public class Features {
         return a * b;
     }
 
-    public float resta(float a, float b){
+    public float cacafuti(float a, float b){
         return a - b;
     }
 }
