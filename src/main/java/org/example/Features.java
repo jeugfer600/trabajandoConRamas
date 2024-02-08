@@ -14,14 +14,11 @@ public class Features {
         return a + b;
     }
 
-    public float multiplijjacacion(float a, float b){
-        return a * b;
-        jasjdjf
-                jjjj
-    }
+jlasdfkjl
+    esto es un conflicto que estoy haciendo yo porque me da la gana.
 
     public float cacafuti(float a, float b){
         jaklsjdflkajk
-        return a - b;
+        aquí ahora voy a devolver otra cosa
     }
 }
