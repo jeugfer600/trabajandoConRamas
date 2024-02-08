@@ -14,9 +14,8 @@ public class Features {
         return a + b;
     }
 
-jlasdfkjl
-    esto es un conflicto que estoy haciendo yo porque me da la gana.
-
+voy a cambiar todo esto para ver si explota
+    vamos a ver
     public float cacafuti(float a, float b){
         jaklsjdflkajk
         aquí ahora voy a devolver otra cosa
